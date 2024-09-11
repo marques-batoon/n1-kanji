@@ -33,7 +33,7 @@ class Home extends React.Component {
 
                 <hr></hr>
 
-                <h2 className="text-center">レッスンで分かれた単語と漢字</h2>
+                <h2 className="text-center">章で分かれた単語と漢字</h2>
 
                 <div className="homeButtonContainer">
                     <Link to={`/kanji?set=${kanjiSetClick}`}><button onClick={this.clickedKanjiSet} value="L1-tango" className="btn from-left">L1<br></br>単語</button></Link>
