@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # intermediate-kanji
 # tango-311
 # n1-kanji
+# itte
